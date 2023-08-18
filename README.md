@@ -1,9 +1,12 @@
 # Braco-Robótico :mechanical_arm:
 
-Esse é um projeto desenvolvido por mim e mais dois amigos onde nós programamos um Braço Robótico utilizando um Arduino UNO.
+Esse é um projeto desenvolvido por mim e mais dois amigos, [Yuri](https://github.com/oYuriyan) e [Thomas](https://github.com/thhhhomas) onde nós programamos um Braço Robótico utilizando um Arduino UNO.
 
+<div align="center">
+  
 ![Video da Jaquelinesinha nosso Braço Robótico!](https://github.com/TH3USS/Braco-Robotico/assets/122408825/75b026c7-ca10-4a04-8837-83d13f4fc075)
 
+</div>
 
 ### O que é um Arduino?
 O Arduino é uma plataforma de prototipagem programável de placa única e hardware livre, nela você pode fazer pequenos projetos e protótipos robóticos, o Arduino é uma forma fácil e simples de aprender robótica e programação.
